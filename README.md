@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/prajwal11_11" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal11_11?logo=twitter&style=for-the-badge" alt="prajwal11_11" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,ReactJs,AWS*
+- 🌱 Currently working as Sofware Engineer in Azentio company
 
-- 💬 Ask me about **Core java,Mysql,JavaScript,Linux**
+- 💬 Ask me about **Core java,Mysql,JavaScript,Linux , Microservices *
 
 - 📫 How to reach me **prajwalbandak1111@gmail.com**
 
