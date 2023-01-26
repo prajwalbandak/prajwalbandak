@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://prajwalbandak.hashnode.dev" target="blank><img align=center src="https://www.google.com/search?q=hashnode+image&rlz=1C1GCEU_en-GBIN1011IN1011&sxsrf=AJOqlzUOF4rNT_YgmtZepU6zbrCfpYWr7g:1674731461240&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiAmd3ujOX8AhVyS2wGHXorDsoQ_AUoAXoECAMQAw&biw=1280&bih=577&dpr=1.5#imgrc=axeZOS6Hauu3QM" alt="prajwalbandak" height="30" width="40" /></a>
+
 <a href="https://twitter.com/prajwal11_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal11_11" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prajwal-mb-ab2002209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajwal-mb-ab2002209" height="30" width="40" /></a>
 <a href="https://leetcode.com/prajwal77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prajwal77/" height="30" width="40" /></a>
