@@ -9,7 +9,7 @@
 
 - 🌱 Currently working as Sofware Engineer in Azentio company
 
-- 💬 Ask me about **Core java, Mysql, JavaScript, Linux, Microservices, springboot, ElasticSearch, Postgressql,nginx, HTML, CSS  *
+- 💬 Ask me about **Core java, Mysql, JavaScript, Linux, Microservices, springboot, ElasticSearch, Postgressql,nginx, HTML, CSS  **
 
 - 📫 How to reach me **prajwalbandak1111@gmail.com**
 
