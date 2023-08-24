@@ -1,4 +1,3 @@
-[![MasterHead](https://c.tenor.com/jfTzhaclHaAAAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm Prajwal bandak</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
