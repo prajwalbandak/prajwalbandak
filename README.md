@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prajwal11_11" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal11_11?logo=twitter&style=for-the-badge" alt="prajwal11_11" /></a> </p>
 
-- 🌱 Currently working as Sofware Engineer.
+- 🌱
 
 - 💬 Ask me about **Core java, Mysql, JavaScript, Linux, Microservices, springboot, ElasticSearch, Postgressql,nginx, HTML, CSS  **
 
